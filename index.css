@@ -1,0 +1,19 @@
+body {
+    top: 60px;
+}
+.container {
+    width: 500px;
+    height: 500px;
+    margin:auto;
+}
+
+.top {
+    padding: 10px;
+    text-align :center;
+}
+
+
+
+.bottom {
+    margin : auto;
+}
