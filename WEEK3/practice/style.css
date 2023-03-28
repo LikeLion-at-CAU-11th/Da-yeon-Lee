@@ -1,0 +1,22 @@
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+img {
+    margin: 10px 10px 10px 10px;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+
+.one {
+    color : red;
+}
+
+#second {
+    background-color: green;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
